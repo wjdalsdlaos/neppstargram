@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wjdalsdlaos/neppstargram/static/css/main.9950bf6b.css",
+    "main.js": "/wjdalsdlaos/neppstargram/static/js/main.58755e55.js",
+    "index.html": "/wjdalsdlaos/neppstargram/index.html",
+    "main.9950bf6b.css.map": "/wjdalsdlaos/neppstargram/static/css/main.9950bf6b.css.map",
+    "main.58755e55.js.map": "/wjdalsdlaos/neppstargram/static/js/main.58755e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9950bf6b.css",
+    "static/js/main.58755e55.js"
+  ]
+}
